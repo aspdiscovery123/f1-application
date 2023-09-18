@@ -1,4 +1,3 @@
-# Python file (app.py)
 from flask import Flask
 app = Flask(__name__)
 
@@ -8,9 +7,9 @@ def hello_world():
 <html>
 <body>
 <center>
-<h1>Demo on GitOps with ArgoCD and Github Actions.</h1> <br>
+<h1>CI/CD pipeline using GitHub Action </h1> <br>
 <br>
-<img src="https://github.com/tanmaybhandge/CICD_Application_K8s/blob/main/itsworking.jpeg?raw=true">
+<img src="https://raw.githubusercontent.com/aspdiscovery123/f1-application/main/edument-axoniq.webp?raw=true">
 </center>
 </body>
 </html>

@@ -7,7 +7,7 @@ def hello_world():
 <html>
 <body>
 <center>
-<h1>CI/CD pipeline using GitHub Action </h1> <br>
+<h1>CI/CD Pipeline using GitHub Action, MiniKube  And ArgoCD </h1> <br>
 <br>
 <img src="https://raw.githubusercontent.com/aspdiscovery123/f1-application/main/edument-axoniq.webp?raw=true">
 </center>
